@@ -1,2 +1,0 @@
-# ciruxb.github.io
-website
